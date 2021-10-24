@@ -1,3 +1,3 @@
 # AnalizaiBazyDanych
 
-#Julia Gajtkowska
+Julia Gajtkowska
