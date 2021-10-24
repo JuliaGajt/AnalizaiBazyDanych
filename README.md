@@ -1,1 +1,3 @@
 # AnalizaiBazyDanych
+
+#Julia Gajtkowska
