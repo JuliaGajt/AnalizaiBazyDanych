@@ -1,3 +1,3 @@
-# AnalizaiBazyDanych
+# Analiza i Bazy Danych
 
-Julia Gajtkowska
+*Julia Gajtkowska gr 1a poniedziałek 8:45 - 10:15*
